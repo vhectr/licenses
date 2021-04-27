@@ -1,5 +1,5 @@
 Vhectr Non-Commercial Public License
-Revision 1, April 27, 2021
+Revision 2, April 27, 2021
 
 
 Everyone is allowed to distribute free copies of this document but changing it is not allowed.
@@ -26,4 +26,4 @@ Terms and Conditions:
 - The Material is provided "as-is" without any warranties. In no event shall Vhectr be held liable for any damage caused by the Material.
 
 NOT PART OF LICENSE TEXT:
-This license is under the Creative Commons CC0 1.0 Universal License (https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+This text of Vhectr Non-Commercial Public License is under the Creative Commons CC0 1.0 Universal License (https://creativecommons.org/publicdomain/zero/1.0/legalcode).
